@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a Data engineering
-- 👯 I’m looking to collaborate on medicine related projects
+- 👯 I’m looking to collaborate on clinical related projects
 - 💬 Ask me about Russia
 - 📫 How to reach me: telegram at AlexMadeAnotherOne
 - ⚡ Fun fact: I'm constantly sayng that one day I will do start-up & stand-up. 
