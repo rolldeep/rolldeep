@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Data engineering
+- 🔭 I’m currently working as a Data engineer
 - 👯 I’m looking to collaborate on clinical related projects
 - 💬 Ask me about Russia
 - 📫 How to reach me: telegram at AlexMadeAnotherOne
