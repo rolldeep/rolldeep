@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Aleksandr Iriumtsev
+I'm Aleksandr Uriumtsev
 
 - 🔭 I’m currently working as a Data engineer
 - 👯 I’m looking to collaborate on clinical related projects
