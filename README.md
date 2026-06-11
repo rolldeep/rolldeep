@@ -2,7 +2,7 @@
 I'm Aleksandr Uriumtsev
 
 - 🔭 I’m currently working as a Data engineer
-- 👯 I’m looking to collaborate on clinical related projects
+- 👯 I’m looking to collaborate on medical related projects
 - 💬 Ask me about Russia
 - 📫 How to reach me: telegram at [AlexMadeAnotherOne](https://t.me/AlexMadeAnotherOne)
 - ⚡ Fun fact: I'm constantly saying that one day I will do start-up & stand-up. 
